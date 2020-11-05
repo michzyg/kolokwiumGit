@@ -1,2 +1,8 @@
 Zmiana01
+zmiana2
+zmiana3
 naprawaBledu
+oraz
+prosta1
+prosta2
+prostaWersja
