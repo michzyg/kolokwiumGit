@@ -7,3 +7,4 @@ oraz
 prosta1
 prosta2
 prostaWersja
+zmianaklon
