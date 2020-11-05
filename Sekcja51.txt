@@ -1,6 +1,7 @@
 Zmiana01
 zmiana2
 zmiana3
+zmiana4
 naprawaBledu
 oraz
 prosta1
